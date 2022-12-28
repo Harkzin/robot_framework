@@ -14,7 +14,7 @@ Login com sucesso
 
 Login invalido
     Go To                           ${URL}
-    Preencher Login                 0        0
+    Preencher Login                 0        00
 
     Mensagem alerta Login           LOGIN INVÁLIDO
 
