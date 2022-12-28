@@ -13,3 +13,5 @@ git add nome do arquivo
 Commit arquivo
 git commit -m "comentário para commitar"
 
+Enviando para o repositorio
+git push origin coloque a branch que atua
